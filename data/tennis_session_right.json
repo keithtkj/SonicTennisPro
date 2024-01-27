@@ -1,0 +1,44 @@
+[
+    {
+        "timestamp": 0,
+        "type": "BallSpeed",
+        "value": 90,
+        "context": "FastApproach",
+        "priority": 1
+    },
+    {
+        "timestamp": 700,
+        "type": "BallTrajectory",
+        "value": 1,
+        "context": "Right",
+        "priority": 2
+    },
+    {
+        "timestamp": 1400,
+        "type": "SwingTiming",
+        "value": 70,
+        "context": "Moving",
+        "priority": 3
+    },
+    {
+        "timestamp": 2100,
+        "type": "BallSpeed",
+        "value": 60,
+        "context": "Fast",
+        "priority": 4
+    },
+    {
+        "timestamp": 2800,
+        "type": "CourtAmbience",
+        "value": 70,
+        "context": "Active",
+        "priority": 5
+    },
+    {
+        "timestamp": 3500,
+        "type": "BallTrajectory",
+        "value": 0.95,
+        "context": "Right",
+        "priority": 6
+    }
+]

@@ -1,0 +1,59 @@
+[
+  {
+      "timestamp": 100,
+      "type": "BallTrajectory",
+      "value": 0, 
+      "context": "Center",
+      "priority": 1
+  },
+  {
+      "timestamp": 500,
+      "type": "BallSpeed",
+      "value": 50,
+      "context": "",
+      "priority": 1
+  },
+  {
+      "timestamp": 1000,
+      "type": "CourtAmbience",
+      "value": 1, 
+      "context": "",
+      "priority": 1
+  },
+  {
+      "timestamp": 1500,
+      "type": "SwingTiming",
+      "value": 1, 
+      "context": "",
+      "priority": 1
+  },
+  
+  {
+      "timestamp": 2000,
+      "type": "BallTrajectory",
+      "value": 0,
+      "context": "Center",
+      "priority": 2
+  },
+  {
+      "timestamp": 2000,
+      "type": "BallSpeed",
+      "value": 0,
+      "context": "",
+      "priority": 2
+  },
+  {
+      "timestamp": 2000,
+      "type": "CourtAmbience",
+      "value": 0, 
+      "context": "",
+      "priority": 2
+  },
+  {
+      "timestamp": 2000,
+      "type": "SwingTiming",
+      "value": 0, 
+      "context": "",
+      "priority": 2
+  }
+]
