@@ -20,10 +20,10 @@ For a more hands-on approach, researchers can adjust the ball's launch and targe
 ## Sonification Scheme
 SonicTennisPro uses an advanced sonification system to translate key tennis data elements into sound:
 
-Ball Trajectory: Audio cues in stereo panning reflect the ball's left or right trajectory.
-Ball Speed: The pitch of a SAW wave changes according to the ball's speed, offering an auditory representation of speed variations.
-Court Ambience: Users can adjust the volume of background court sounds for a more immersive experience.
-Swing Timing: A metronome assists in timing the racket swings, with the tempo varying based on the anticipated landing area of the ball.
+#### Ball Trajectory: Audio cues in stereo panning reflect the ball's left or right trajectory.
+#### Ball Speed: The pitch of a SAW wave changes according to the ball's speed, offering an auditory representation of speed variations.
+#### Court Ambience: Users can adjust the volume of background court sounds for a more immersive experience.
+#### Swing Timing: A metronome assists in timing the racket swings, with the tempo varying based on the anticipated landing area of the ball.
 
 ## Usage
 ### Running Premade Scenarios
