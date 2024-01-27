@@ -10,7 +10,8 @@ The simulator provides a visual representation of a tennis court, serving as the
 
 ### Premade Scenario Control Panel
 Users can select from a variety of premade scenarios through a control panel. These scenarios are visualized and accompanied by specific sonification audio, based on their respective JSON event files.
-Researcher Sonification Sliders
+
+### Researcher Sonification Sliders
 These sliders, positioned at the bottom left of the screen, offer four different sonification schemes. They are essential for conducting Wizard of Oz testing and various research applications.
 
 ### Manual Ball Trajectory Settings
